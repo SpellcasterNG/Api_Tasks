@@ -1,0 +1,14 @@
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\bin\Debug\net6.0\TareasSP_DB.deps.json
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\bin\Debug\net6.0\TareasSP_DB.runtimeconfig.json
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\bin\Debug\net6.0\TareasSP_DB.dll
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\bin\Debug\net6.0\TareasSP_DB.pdb
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.csproj.AssemblyReference.cache
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.AssemblyInfoInputs.cache
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.AssemblyInfo.cs
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.csproj.CoreCompileInputs.cache
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.dll
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\refint\TareasSP_DB.dll
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.pdb
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\TareasSP_DB.genruntimeconfig.cache
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\TareasSP_DB\obj\Debug\net6.0\ref\TareasSP_DB.dll
