@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uLG9WGhmcy6dNmLmY1I4qVJVwaE7yM0JcxPiTjzP4lb5vdQYHllSH5di0z7A+bBQMzMH62gm9Z9L+6R8ffytPg==",
+  "dgSpecHash": "pudhJWeCNh4HjtS/+URUWFvz5yhoe2yVDJ7X9ltQAN4oKKhcfNpBNqo6rEzYSaltpLOcs2ehg6g2rA/7xO3NDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\michael.miliano\\Desktop\\BootCamp\\10_Apis\\Aplicacion_Tareas\\Api_TareasSP\\Api_TareasSP\\Api_TareasSP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michael.miliano\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\michael.miliano\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\michael.miliano\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\michael.miliano\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.12\\microsoft.aspnetcore.authentication.jwtbearer.6.0.12.nupkg.sha512",
     "C:\\Users\\michael.miliano\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\michael.miliano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\michael.miliano\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

@@ -8,6 +8,7 @@ C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP
 C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\Api_TareasSP\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\Api_TareasSP\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\Api_TareasSP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\Api_TareasSP\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\Api_TareasSP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\Api_TareasSP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\michael.miliano\Desktop\BootCamp\10_Apis\Aplicacion_Tareas\Api_TareasSP\Api_TareasSP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
